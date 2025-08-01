@@ -1,26 +1,26 @@
-# Exploradores del Saber 🐾
+# Exploradores del Saber 
 
-> A 3D educational escape room prototype designed for children aged 6–12.  
+> A 3D educational escape room prototype designed for children aged 6–8.  
 > Players solve puzzles focused on the animal world, combining fun exploration with learning elements.
 
 ---
 
-## Features ✨
+## Features 
 - **Educational content:** Learn about the animal kingdom while solving puzzles.
 - **Escape room experience:** Explore 3D environments and unlock rooms by completing interactive challenges.
-- **Kid-friendly design:** Tailored for children ages 6–12.
+- **Kid-friendly design:** Tailored for children ages 6–8.
 - **Platform:** PC.
 
 ---
 
-## Your Contribution 👨‍💻
+## My Contribution 
 - Designed and implemented puzzle mechanics in collaboration with another developer.
 - Programmed and integrated gameplay systems.
 - Worked with a team responsible for UI design and 3D asset creation.
 
 ---
 
-## Development Context 🕐
+## Development Context 
 - Created as a prototype to explore **educational gameplay** and **puzzle design** in 3D environments.
 - Designed with accessibility and engagement for young players.
 
@@ -33,7 +33,7 @@
 
 ---
 
-## How to Play 🕹
+## How to Play 
 ### Installation
 1. Download the latest [release](../../releases).
 2. Extract and run the `.exe` (Windows).
@@ -45,16 +45,16 @@
 
 ---
 
-## Project Status 🚧
+## Project Status 
 **Prototype completed**  
 Focused on educational value, puzzle design, and interactive 3D experiences.
 
 ---
 
-## Credits 👥
+## Credits 
 - **Nicolás Hurtado** – Programming, integration, puzzle design.
-- **[Co-Developer Name]** – Puzzle design collaboration.
-- **UI & 3D Design Team** – Interfaces and 3D assets.
+- **Leidy Katerine Pinzón** – Puzzle design collaboration.
+- **Leidy Katerine Pinzón - Melissa Mora Aponte - Paola Garzón Doncel** – Interfaces and 3D assets.
 
 ---
 
