@@ -27,9 +27,9 @@
 ---
 
 ## Screenshots / GIFs 📷
-*(Replace with your own images or GIFs)*  
-Example:  
-![Exploradores del Saber](Docs/exploradores_del_saber.gif)
+<p align="center">
+  <img src="Docs/deadpool.gif" width="300">
+</p>
 
 ---
 
