@@ -28,7 +28,7 @@
 
 ## Screenshots / GIFs 📷
 <p align="center">
-  <img src="Docs/escaperoomGIF.gif" width="300">
+  <img src="Docs/escaperoomGIF.gif" width="600">
 </p>
 
 ---
