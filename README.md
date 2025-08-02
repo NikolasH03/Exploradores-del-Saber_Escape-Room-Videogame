@@ -35,7 +35,7 @@
 
 ## How to Play 
 ### Installation
-1. Download the latest [release](../../releases).
+1. Download the latest [release](https://github.com/NikolasH03/Exploradores-del-Saber_Escape-Room-Videogame/releases/tag/V1.0.0).
 2. Extract and run the `.exe` (Windows).
 
 ### Gameplay
